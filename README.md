@@ -1,0 +1,2 @@
+# SINGLE-PORT-RAM-USING-VERILOG
+This Project describes a 64 bit x 8 bit single-port RAM design with common read and write addresses in Verilog. In computing, memory refers to a device that is used to store information for immediate use in a computer or related computer hardware device. It typically refers to semiconductor memory, specifically metal–oxide–semiconductor memory, where data is stored within MOS memory cells on a silicon integrated circuit chip.
